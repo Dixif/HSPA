@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "gethomerent"
+  },
+  "targets": {
+    "gethomerent": {
+      "hosting": {
+        "my-first-app": [
+          "gethomerent"
+        ]
+      }
+    }
+  }
+}
